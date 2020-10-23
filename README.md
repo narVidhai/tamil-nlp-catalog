@@ -43,6 +43,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [XML RoBERTa](https://huggingface.co/transformers/model_doc/xlmroberta.html)
 - [AI4Bharat ALBERT](https://indicnlp.ai4bharat.org/indic-bert)
 - [Google ELECTRA - TaMillion](https://huggingface.co/monsoon-nlp/tamillion)
+- [Multilingual T5](https://github.com/google-research/multilingual-t5)
 
 ### Translation
 
