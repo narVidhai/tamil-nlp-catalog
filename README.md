@@ -48,6 +48,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - Moses SMT
   - [Śata-Anuva̅dak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/)
+- Transformers
+  - [Facebook Many-to-Many Translation](https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation)
 
 ### Transliteration
 
