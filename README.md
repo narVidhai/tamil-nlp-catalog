@@ -16,7 +16,6 @@ Note:
 
 ### General
 
-- [Open-Tamil](https://github.com/Ezhil-Language-Foundation/open-tamil)
 - [iNLTK](https://inltk.readthedocs.io/) - Indian NLP ToolKit
   - Tools for processing and trained models
 - [Indic NLP Library](http://anoopkunchukuttan.github.io/indic_nlp_library/)
@@ -43,6 +42,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md)
 - [XML RoBERTa](https://huggingface.co/transformers/model_doc/xlmroberta.html)
 - [AI4Bharat ALBERT](https://indicnlp.ai4bharat.org/indic-bert)
+- [Google ELECTRA - TaMillion](https://huggingface.co/monsoon-nlp/tamillion)
 
 ### Translation
 
