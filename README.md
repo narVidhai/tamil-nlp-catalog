@@ -2,6 +2,8 @@
 
 > A curated catalog of open-source resources for Tamil NLP & AI.
 
+<img src="https://1.bp.blogspot.com/-jImAZD8-kIY/WhwLddVQ0FI/AAAAAAAABmY/cW7pjolPoS4KGb3iXrxikDBgWL3VLAqpwCEwYBhgL/s1600/A%2Btamil%2Btypo%2Bnw.jpg" height="400px" />
+
 The estimated worldwide Tamil population is around 80-85 million which is near to the population of Germany.  
 Hence it is crucial to work on NLP for தமிழ். This list will serve as a catalog for all resources related to Tamil NLP.
 
