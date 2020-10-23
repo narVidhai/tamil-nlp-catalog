@@ -63,6 +63,10 @@ Note:
 - [IIT-M TTS](https://github.com/tshrinivasan/tamil-tts-install)
 - [VasuRobo Speech Recognizer](https://github.com/vasurobo/tamil-speech-recognition)
 
+### Miscellaneous
+
+- [Tamilinaiya Spell Checker](https://github.com/tshrinivasan/Tamilinaiya-Spellchecker)
+
 ---
 
 ## Datasets
@@ -107,14 +111,14 @@ Note:
 
 ### Speech
 
-### Speech-To-Text
+#### Speech-To-Text
 
 - [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e)
 - [OpenSLR](http://www.openslr.org/resources.php) - {2020, 9 hours, [Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf)}
 - [Facebook CoVoST](https://github.com/facebookresearch/covost) - {2019, 2 hours}
 - [Spoken Tutorial](https://spoken-tutorial.org/) - TODO: Scrape from here
 
-### Text-to-Speech (TTS)
+#### Text-to-Speech (TTS)
 
 - [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php) - {2020, [Competition](http://tdil-dc.in/ttsapi/ttschallenge2020/)}
 - [WikiPron](https://github.com/kylebgorman/wikipron) - Word Pronounciations from Wiki
