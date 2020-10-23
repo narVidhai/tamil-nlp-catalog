@@ -16,11 +16,13 @@ Note:
 
 ### General
 
-- [Open-Tamil](https://github.com/Ezhil-Language-Foundation/open-tamil) - By Ezhil Foundation
+- [Open-Tamil](https://github.com/Ezhil-Language-Foundation/open-tamil)
 - [iNLTK](https://inltk.readthedocs.io/) - Indian NLP ToolKit
   - Tools for processing and trained models
 - [Indic NLP Library](http://anoopkunchukuttan.github.io/indic_nlp_library/)
   - Script-processing tools
+
+Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-Foundation/awesome-tamil) for lot more resources!
 
 ### Word Embeddings
 
