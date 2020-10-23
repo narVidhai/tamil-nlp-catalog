@@ -16,6 +16,7 @@ Note:
 
 ### General
 
+- [Open-Tamil](https://github.com/Ezhil-Language-Foundation/open-tamil) - By Ezhil Foundation
 - [iNLTK](https://inltk.readthedocs.io/) - Indian NLP ToolKit
   - Tools for processing and trained models
 - [Indic NLP Library](http://anoopkunchukuttan.github.io/indic_nlp_library/)
@@ -82,6 +83,7 @@ Note:
 - [LDCIL Standard Text Corpus](https://data.ldcil.org/a-gold-standard-tamil-raw-text-corpus) - Free for students/faculties {11M tokens}
 - [EMILLE Corpus](https://www.lancaster.ac.uk/fass/projects/corpus/emille/) - {20M Tokens}
 - [Leipzig Corpora](https://wortschatz.uni-leipzig.de/en/download/tamil)
+- [Project Madurai](https://www.projectmadurai.org/pmworks.html)
 
 ### Translation
 
@@ -126,6 +128,7 @@ Note:
 ### Named Entity Recognition
 
 - [FIRE2014](http://www.au-kbc.org/nlp/NER-FIRE2014/)
+- [FIRE2015 Social Media Text](http://au-kbc.org/nlp/ESM-FIRE2015/) - Tweets
 - [WikiAnn](https://elisa-ie.github.io/wikiann) - ([Latest Download Link](https://drive.google.com/drive/folders/1Q-xdT99SeaCghihGa7nRkcXGwRGUIsKN))
 
 ### Text Classification
@@ -139,6 +142,7 @@ Note:
 ### Sentiment, Sarcasm, Emotion Analysis
 
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html)
+- [Dravidian-CodeMix - FIRE2020](https://dravidian-codemix.github.io/2020/datasets.html)
 
 ### Lexical Resources
 
