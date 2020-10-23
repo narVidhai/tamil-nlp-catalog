@@ -21,6 +21,31 @@ Note:
 - [Indic NLP Library](http://anoopkunchukuttan.github.io/indic_nlp_library/)
   - Script-processing tools
 
+### Word Embeddings
+
+- FastText
+  - [Wikipedia-based](https://fasttext.cc/docs/en/pretrained-vectors.html) - {2016}
+  - [CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html) - {2017}
+  - [AI4Bharat IndicFT](https://indicnlp.ai4bharat.org/indicft) - {2020}
+  - [Multilingual Aligned](https://github.com/babylonhealth/fastText_multilingual) - {2017}
+- [ConceptNet](https://github.com/commonsense/conceptnet-numberbatch)
+- [BPEmb: Subword Embeddings](https://nlp.h-its.org/bpemb/) - {2017, [Aligned Multilingual](https://nlp.h-its.org/bpemb/multi/)}
+- [PolyGlot](https://sites.google.com/site/rmyeid/projects/polyglot)
+- [Facebook MUSE](https://github.com/facebookresearch/MUSE)
+- [GeoMM](https://github.com/anoopkunchukuttan/geomm)
+
+### Transformers & BERT
+
+- iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) | [Tanglish](https://github.com/goru001/nlp-for-tanglish)
+- [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md)
+- [XML RoBERTa](https://huggingface.co/transformers/model_doc/xlmroberta.html)
+- [AI4Bharat ALBERT](https://indicnlp.ai4bharat.org/indic-bert)
+
+### Translation
+
+- Moses SMT
+  - [Śata-Anuva̅dak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/)
+
 ### Transliteration
 
 - [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit)
@@ -32,6 +57,11 @@ Note:
 
 - [Tesseract](https://indic-ocr.github.io/tessdata/)
 - [EasyOCR](https://www.jaided.ai/easyocr)
+
+### Speech
+
+- [IIT-M TTS](https://github.com/tshrinivasan/tamil-tts-install)
+- [VasuRobo Speech Recognizer](https://github.com/vasurobo/tamil-speech-recognition)
 
 ---
 
@@ -75,8 +105,53 @@ Note:
 - [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina) - {300k pairs}
 - [NEWS2018 Dataset](http://workshop.colips.org/news2018/dataset.html)
 
+### Speech
+
+### Speech-To-Text
+
+- [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e)
+- [OpenSLR](http://www.openslr.org/resources.php) - {2020, 9 hours, [Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf)}
+- [Facebook CoVoST](https://github.com/facebookresearch/covost) - {2019, 2 hours}
+- [Spoken Tutorial](https://spoken-tutorial.org/) - TODO: Scrape from here
+
+### Text-to-Speech (TTS)
+
+- [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php) - {2020, [Competition](http://tdil-dc.in/ttsapi/ttschallenge2020/)}
+- [WikiPron](https://github.com/kylebgorman/wikipron) - Word Pronounciations from Wiki
+
 ### Named Entity Recognition
 
 - [FIRE2014](http://www.au-kbc.org/nlp/NER-FIRE2014/)
 - [WikiAnn](https://elisa-ie.github.io/wikiann) - ([Latest Download Link](https://drive.google.com/drive/folders/1Q-xdT99SeaCghihGa7nRkcXGwRGUIsKN))
 
+### Text Classification
+
+- [IndicGLUE Classification Benchmark](https://indicnlp.ai4bharat.org/indic-glue/)
+  - Headline Classification
+  - Wikipedia Section Title Classification
+  - Wiki Cloze-style Question Answering
+- [AI4Bharat News Article Classification](https://github.com/AI4Bharat/indicnlp_corpus#indicnlp-news-article-classification-dataset)
+
+### Sentiment, Sarcasm, Emotion Analysis
+
+- [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html)
+
+### Lexical Resources
+
+- [IndoWordNet](http://www.cfilt.iitb.ac.in/indowordnet/)
+- [IIIT-H Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages)
+- [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora)
+
+### Miscellaneous NLP Datasets
+
+- **Part-Of-Speech (POS) Tagging**
+  - [Universal Dependencies](https://universaldependencies.org/)
+  
+- **Information Extraction**
+  - [EventXtractionIL-FIRE2018](http://78.46.86.133/EventXtractionIL-FIRE2018/)
+  - [EDNIL-FIRE2020](https://ednilfire.github.io/ednil/2020/index.html)
+  
+- **Paraphrase Identification**
+  - [Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html)
+  
+- MorphAnalyzers - {[AI4Bharat](https://github.com/ai4bharat/indicnlp_corpus#morphanalyzers)}
