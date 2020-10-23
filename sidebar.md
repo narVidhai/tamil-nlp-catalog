@@ -1,4 +1,4 @@
-* [Home](#tamil-nlp-awesome-list)
+* [Home](#tamil-deep-learning-awesome-list)
 
 * [Tools, Libraries & Models](#tools-libraries-amp-models)
   * [General](#general)

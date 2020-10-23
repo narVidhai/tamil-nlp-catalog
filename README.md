@@ -1,4 +1,4 @@
-# Tamil NLP Awesome List
+# Tamil Deep Learning Awesome List
 
 > A curated catalog of open-source resources for Tamil NLP & AI.
 
