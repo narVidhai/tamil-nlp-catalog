@@ -19,5 +19,6 @@
   * [Text Classification](#text-classification)
   * [Sentiment & Emotion Analysis](#sentiment-sarcasm-emotion-analysis)
   * [Lexical Resources](#lexical-resources)
+  * [Benchmarks](#benchmarks)
   * [Miscellaneous NLP Datasets](#miscellaneous-nlp-datasets)
 
