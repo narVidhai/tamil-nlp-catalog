@@ -74,6 +74,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Miscellaneous
 
+- [Chatbot NER](https://github.com/hellohaptik/chatbot_ner/)
 - [Tamilinaiya Spell Checker](https://github.com/tshrinivasan/Tamilinaiya-Spellchecker)
 
 ---
@@ -157,8 +158,16 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [IndoWordNet](http://www.cfilt.iitb.ac.in/indowordnet/)
 - [IIIT-H Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages)
 - [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora)
+- [MTurks Bilngual Dictionary](https://github.com/AI4Bharat/indicnlp_catalog/issues/21) - {2014}
 
 ### Miscellaneous NLP Datasets
+
+- **Natural Language Inference**
+  - [XNLI 2019](https://www.gujaratresearchsociety.in/index.php/JGRS/article/view/3426) - Request via email
+  - [AI4Bharat Cross-Lingual Sentence Retrieval](https://indicnlp.ai4bharat.org/indic-glue/)
+  
+- **Dialogue**
+  - [Code-Mixed-Dialog 2018](https://github.com/sumanbanerjee1/Code-Mixed-Dialog)
 
 - **Part-Of-Speech (POS) Tagging**
   - [Universal Dependencies](https://universaldependencies.org/)
@@ -169,7 +178,10 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   
 - **Paraphrase Identification**
   - [Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html)
-  
+
+- **Reasoning**
+  - [Cross-lingual Choice of Plausible Alternatives](https://github.com/cambridgeltl/xcopa) (XCOPA)
+
 - MorphAnalyzers - {[AI4Bharat](https://github.com/ai4bharat/indicnlp_corpus#morphanalyzers)}
 
 ---
@@ -177,3 +189,4 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ## Other Important Resources
 
 - [IndicNLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) by AI4Bharat
+- [The Big Bad NLP Database](https://datasets.quantumstat.com/)
