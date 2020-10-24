@@ -171,3 +171,9 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html)
   
 - MorphAnalyzers - {[AI4Bharat](https://github.com/ai4bharat/indicnlp_corpus#morphanalyzers)}
+
+---
+
+## Other Important Resources
+
+- [IndicNLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) by AI4Bharat
