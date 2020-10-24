@@ -160,6 +160,11 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora)
 - [MTurks Bilngual Dictionary](https://github.com/AI4Bharat/indicnlp_catalog/issues/21) - {2014}
 
+### Benchmarks
+
+- [Google XTREME](https://github.com/google-research/xtreme)
+- [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/)
+
 ### Miscellaneous NLP Datasets
 
 - **Natural Language Inference**
