@@ -195,7 +195,13 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - **Reasoning**
   - [Cross-lingual Choice of Plausible Alternatives](https://github.com/cambridgeltl/xcopa) (XCOPA)
 
-- MorphAnalyzers - {[AI4Bharat](https://github.com/ai4bharat/indicnlp_corpus#morphanalyzers)}
+- MorphAnalysis
+  - [AI4Bharat MorphAnalyzer](https://github.com/ai4bharat/indicnlp_corpus#morphanalyzers)
+  - [ThamizhiMorph](https://github.com/sarves/thamizhi-morph)
+
+- **Pure Tamil**
+  - [Indic to Pure Tamil](https://github.com/narVidhai/Indic-To-Pure-Tamil)
+  - [English to Tamil](https://www.kaggle.com/muthua/tamil-loan-words-classification)
 
 ---
 
