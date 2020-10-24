@@ -127,6 +127,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e)
 - [OpenSLR](http://www.openslr.org/resources.php) - {2020, 9 hours, [Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf)}
+- [IARPA Babel](https://catalog.ldc.upenn.edu/LDC2017S13) - {2017, 350 hours}
+- [Mozilla CommonVoice](https://commonvoice.mozilla.org/en/datasets) - {2020, 20 hours}
 - [Facebook CoVoST](https://github.com/facebookresearch/covost) - {2019, 2 hours}
 - [Spoken Tutorial](https://spoken-tutorial.org/) - TODO: Scrape from here
 
