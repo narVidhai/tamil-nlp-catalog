@@ -106,6 +106,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Facebook CommonCrawl-Matrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix) - {2019, Might be noisy)
 - [WAT Translation Task](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html) - Other datasets
 - [NLPC-UoM English-Tamil Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus) - {2019, 9k sentences}
+- [VPT-IL-FIRE2018](http://78.46.86.133/VPT-IL-FIRE2018/)
 - [English-Tamil Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz)
 - [JW300 Corpus](http://opus.nlpl.eu/JW300.php) - Parallel corpus mined from jw.org. Religious text from Jehovah's Witness.
 - [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel)
@@ -156,6 +157,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Lexical Resources
 
 - [IndoWordNet](http://www.cfilt.iitb.ac.in/indowordnet/)
+- [AU-KBC WordNet](http://www.au-kbc.org/nlp/lex_re.html)
 - [IIIT-H Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages)
 - [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora)
 - [MTurks Bilngual Dictionary](https://github.com/AI4Bharat/indicnlp_catalog/issues/21) - {2014}
@@ -175,11 +177,15 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [Code-Mixed-Dialog 2018](https://github.com/sumanbanerjee1/Code-Mixed-Dialog)
 
 - **Part-Of-Speech (POS) Tagging**
+  - [AUKBC-TamilPOSCorpus2016v1](http://www.au-kbc.org/nlp/corpusrelease.html)
   - [Universal Dependencies](https://universaldependencies.org/)
   
-- **Information Extraction**
+- **Information Extraction**  
+  (*Can also be event extraction or entity extraction*)
+  
   - [EventXtractionIL-FIRE2018](http://78.46.86.133/EventXtractionIL-FIRE2018/)
   - [EDNIL-FIRE2020](https://ednilfire.github.io/ednil/2020/index.html)
+  - [CMEE-FIRE2016](http://www.au-kbc.org/nlp/CMEE-FIRE2016/)
   
 - **Paraphrase Identification**
   - [Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html)
