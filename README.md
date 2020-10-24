@@ -7,8 +7,10 @@
 The estimated worldwide Tamil population is around 80-85 million which is near to the population of Germany.  
 Hence it is crucial to work on NLP for தமிழ். This list will serve as a catalog for all resources related to Tamil NLP.
 
-Note:  
-*Please use [GitHub Issues](https://github.com/narVidhai/tamil-nlp-catalog/issues) for queries/feedback or to **contribute** resources/links.*
+Note:
+- *Please use [GitHub Issues](https://github.com/narVidhai/tamil-nlp-catalog/issues) for queries/feedback or to **contribute** resources/links.*
+- *If you find this useful, please [star this on GitHub](https://github.com/narVidhai/tamil-nlp-catalog) to encourage this list to be active.*
+- *Share this [awesome website](https://narvidhai.github.io/tamil-nlp-catalog) if you liked it! :-)*
 
 ---
 
