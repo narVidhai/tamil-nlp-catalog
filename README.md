@@ -164,6 +164,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [LipiTK Isolated Handwritten Tamil Character Dataset](http://lipitk.sourceforge.net/datasets/tamilchardata.htm) - {156 characters, 500 samples per char}
 - [Tamil Vowels - Scanned Handwritten](https://github.com/anandhkishan/Handwritten-Character-Recognition-using-CNN/tree/master/new_dataset) - {12 vowels, 18 images each}
 - [AcchuTamil Printed Characters Dataset](https://github.com/Ezhil-Language-Foundation/acchu-tamilocr-dataset) - {MNIST format}
+- [Jaffna University Datasets of printed Tamil characters and documents](http://www.jfn.ac.lk/index.php/data-sets-printed-tamil-characters-printed-documents/)
+- [Kalanjiyam: Unconstrained Offline Tamil Handwritten Database](https://kalanjyam.wordpress.com/) - {2016, [Paper](https://link.springer.com/chapter/10.1007/978-3-319-68124-5_24)}
 
 ### Sentiment, Sarcasm, Emotion Analysis
 
