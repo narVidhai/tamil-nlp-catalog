@@ -89,6 +89,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [WMT Raw 2017](http://data.statmt.org/ngrams/raw/) - CC crawls from 2012-2016
 - [WMT News Crawl](http://data.statmt.org/news-crawl/ta/)
 - [AI4Bharat IndicCorp](https://indicnlp.ai4bharat.org/corpora/) - {582M}
+- [Kaggle Tamil Articles Corpus](https://www.kaggle.com/praveengovi/tamil-language-corpus-for-nlp)
 - [LDCIL Standard Text Corpus](https://data.ldcil.org/a-gold-standard-tamil-raw-text-corpus) - Free for students/faculties {11M tokens}
 - [EMILLE Corpus](https://www.lancaster.ac.uk/fass/projects/corpus/emille/) - {20M Tokens}
 - [Leipzig Corpora](https://wortschatz.uni-leipzig.de/en/download/tamil)
@@ -121,7 +122,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina) - {300k pairs}
 - [NEWS2018 Dataset](http://workshop.colips.org/news2018/dataset.html)
 
-### Speech
+### Speech & Audio
 
 #### Speech-To-Text
 
@@ -137,6 +138,10 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php) - {2020, [Competition](http://tdil-dc.in/ttsapi/ttschallenge2020/)}
 - [WikiPron](https://github.com/kylebgorman/wikipron) - Word Pronounciations from Wiki
 
+#### Audio
+
+- [A classification dataset for Tamil music](http://dorienherremans.com/sgmusic) - {2020, [Paper](https://arxiv.org/abs/2009.04459)}
+
 ### Named Entity Recognition
 
 - [FIRE2014](http://www.au-kbc.org/nlp/NER-FIRE2014/)
@@ -150,11 +155,21 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - Wikipedia Section Title Classification
   - Wiki Cloze-style Question Answering
 - [AI4Bharat News Article Classification](https://github.com/AI4Bharat/indicnlp_corpus#indicnlp-news-article-classification-dataset)
+- [iNLTK News Articles Classification](https://www.kaggle.com/disisbig/tamil-news-dataset)
+
+### OCR
+
+#### Character-level datasets
+
+- [LipiTK Isolated Handwritten Tamil Character Dataset](http://lipitk.sourceforge.net/datasets/tamilchardata.htm) - {156 characters, 500 samples per char}
+- [Tamil Vowels - Scanned Handwritten](https://github.com/anandhkishan/Handwritten-Character-Recognition-using-CNN/tree/master/new_dataset) - {12 vowels, 18 images each}
+- [AcchuTamil Printed Characters Dataset](https://github.com/Ezhil-Language-Foundation/acchu-tamilocr-dataset) - {MNIST format}
 
 ### Sentiment, Sarcasm, Emotion Analysis
 
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html)
 - [Dravidian-CodeMix - FIRE2020](https://dravidian-codemix.github.io/2020/datasets.html)
+- [Twitter Keyword based Emotion Corpus](https://osf.io/48awk/) - {2019}
 
 ### Lexical Resources
 
@@ -202,6 +217,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - **Pure Tamil**
   - [Indic to Pure Tamil](https://github.com/narVidhai/Indic-To-Pure-Tamil)
   - [English to Tamil](https://www.kaggle.com/muthua/tamil-loan-words-classification)
+  - [Tamil Glossary Dataset](https://osf.io/ngt6v/)
 
 ---
 
