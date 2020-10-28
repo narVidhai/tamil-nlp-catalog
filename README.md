@@ -170,7 +170,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Sentiment, Sarcasm, Emotion Analysis
 
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html)
-- [Dravidian-CodeMix - FIRE2020](https://dravidian-codemix.github.io/2020/datasets.html)
+- [Dravidian-CodeMix - FIRE2020](https://dravidian-codemix.github.io/2020/datasets.html) - {2020, [Paper](https://www.aclweb.org/anthology/2020.sltu-1.28.pdf)}
 - [Twitter Keyword based Emotion Corpus](https://osf.io/48awk/) - {2019}
 
 ### Lexical Resources
@@ -220,6 +220,9 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [Indic to Pure Tamil](https://github.com/narVidhai/Indic-To-Pure-Tamil)
   - [English to Tamil](https://www.kaggle.com/muthua/tamil-loan-words-classification)
   - [Tamil Glossary Dataset](https://osf.io/ngt6v/)
+
+- **Image-based**
+  - [A Dataset for Troll Classification of TamilMemes](https://github.com/sharduls007/TamilMemes) - {2020, [Paper](https://www.aclweb.org/anthology/2020.wildre-1.2.pdf)}
 
 ---
 
