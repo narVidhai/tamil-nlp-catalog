@@ -121,6 +121,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina) - {300k pairs}
 - [NEWS2018 Dataset](http://workshop.colips.org/news2018/dataset.html)
+- [Thirukkural Transliteration](https://github.com/narVidhai/Thirukkural-transliteration-data)
 
 ### Speech & Audio
 
