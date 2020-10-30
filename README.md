@@ -208,8 +208,9 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [EDNIL-FIRE2020](https://ednilfire.github.io/ednil/2020/index.html)
   - [CMEE-FIRE2016](http://www.au-kbc.org/nlp/CMEE-FIRE2016/)
   
-- **Paraphrase Identification**
-  - [Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html)
+- **Misc**
+  - [Paraphrase Identification - Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html)
+  - [Anaphora Resolution from Social Media Text - FIRE2020](http://78.46.86.133/SocAnaRes-IL20/)
 
 - **Reasoning**
   - [Cross-lingual Choice of Plausible Alternatives](https://github.com/cambridgeltl/xcopa) (XCOPA)
