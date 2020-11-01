@@ -12,9 +12,14 @@ Note:
 - *If you find this useful, please [star this on GitHub](https://github.com/narVidhai/tamil-nlp-catalog) to encourage this list to be active.*
 - *Share this [awesome website](https://narvidhai.github.io/tamil-nlp-catalog) if you liked it! :-)*
 
----
+<hr/>
 
-## Tools, Libraries & Models
+<!-- START doctoc -->
+<!-- END doctoc -->
+
+<hr/>
+
+## **Tools, Libraries, Models**
 
 ### General
 
@@ -38,7 +43,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Facebook MUSE](https://github.com/facebookresearch/MUSE)
 - [GeoMM](https://github.com/anoopkunchukuttan/geomm)
 
-### Transformers & BERT
+### Transformers, BERT
 
 - iNLTK (ULMFit and TransformerXL) - [Tamil](https://github.com/goru001/nlp-for-tamil) | [Tanglish](https://github.com/goru001/nlp-for-tanglish)
 - [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md)
@@ -79,7 +84,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ---
 
-## Datasets
+## **Datasets**
 
 ### Monolingual Corpus
 
@@ -124,7 +129,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [NEWS2018 Dataset](http://workshop.colips.org/news2018/dataset.html)
 - [Thirukkural Transliteration](https://github.com/narVidhai/Thirukkural-transliteration-data)
 
-### Speech & Audio
+### Speech, Audio
 
 #### Speech-To-Text
 
@@ -229,7 +234,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ---
 
-## Other Important Resources
+## **Other Important Resources**
 
 - [IndicNLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) by AI4Bharat
 - [The Big Bad NLP Database](https://datasets.quantumstat.com/)
