@@ -14,8 +14,38 @@ Note:
 
 <hr/>
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [**Tools, Libraries, Models**](#tools-libraries-models)
+  - [General](#general)
+  - [Word Embeddings](#word-embeddings)
+  - [Transformers, BERT](#transformers-bert)
+  - [Translation](#translation)
+  - [Transliteration](#transliteration)
+  - [OCR](#ocr)
+  - [Speech](#speech)
+  - [Miscellaneous](#miscellaneous)
+- [**Datasets**](#datasets)
+  - [Monolingual Corpus](#monolingual-corpus)
+  - [Translation](#translation-1)
+  - [Transliteration](#transliteration-1)
+  - [Speech, Audio](#speech-audio)
+    - [Speech-To-Text](#speech-to-text)
+    - [Text-to-Speech (TTS)](#text-to-speech-tts)
+    - [Audio](#audio)
+  - [Named Entity Recognition](#named-entity-recognition)
+  - [Text Classification](#text-classification)
+  - [OCR](#ocr-1)
+    - [Character-level datasets](#character-level-datasets)
+  - [Sentiment, Sarcasm, Emotion Analysis](#sentiment-sarcasm-emotion-analysis)
+  - [Lexical Resources](#lexical-resources)
+  - [Benchmarks](#benchmarks)
+  - [Miscellaneous NLP Datasets](#miscellaneous-nlp-datasets)
+- [**Other Important Resources**](#other-important-resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <hr/>
 
