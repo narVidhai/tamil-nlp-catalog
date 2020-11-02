@@ -12,6 +12,7 @@ Note:
 - *If you find this useful, please [star this on GitHub](https://github.com/narVidhai/tamil-nlp-catalog) to encourage this list to be active.*
 - *Share this [awesome website](https://narvidhai.github.io/tamil-nlp-catalog) if you liked it! :-)*
 
+<div id="toc-container">
 <hr/>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -46,6 +47,7 @@ Note:
 - [**Other Important Resources**](#other-important-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</div>
 
 <hr/>
 

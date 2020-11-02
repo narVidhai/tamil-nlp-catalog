@@ -1,0 +1,11 @@
+.markdown-section li ul,
+.markdown-section li ol,
+.markdown-section li p {
+    line-height: 1.6rem;
+    margin: 0 0 0 0;
+    word-spacing: .05rem;
+}
+
+#toc-container {
+    display: none;
+}
