@@ -206,6 +206,10 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Jaffna University Datasets of printed Tamil characters and documents](http://www.jfn.ac.lk/index.php/data-sets-printed-tamil-characters-printed-documents/)
 - [Kalanjiyam: Unconstrained Offline Tamil Handwritten Database](https://kalanjyam.wordpress.com/) - {2016, [Paper](https://link.springer.com/chapter/10.1007/978-3-319-68124-5_24)}
 
+#### Scene-Text Detection / Recognition
+
+- [SynthText](https://github.com/IngleJaya95/SynthTextHindi) - {2019, [Dataset](https://drive.google.com/drive/folders/1fx1D1EW_6_j9tzzXSajM8iQygeMLLMcU)}
+
 ### Sentiment, Sarcasm, Emotion Analysis
 
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html)
