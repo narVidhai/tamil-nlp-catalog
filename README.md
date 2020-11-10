@@ -95,6 +95,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Transliteration
 
+- [AI4Bharat Xlit](https://pypi.org/project/ai4bharat-transliteration/)
 - [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit)
 - [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration)
 - [AksharaMukha](http://aksharamukha.appspot.com/converter) - [API](http://aksharamukha.appspot.com/python)
