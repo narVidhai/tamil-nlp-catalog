@@ -126,7 +126,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - CommonCrawl
   - [OSCAR Corpus 2019](https://oscar-corpus.com/) - Deduplicated Corpus {226M Tokens, 5.1GB)
   - [WMT Raw 2017](http://data.statmt.org/ngrams/raw/) - CC crawls from 2012-2016
-  - [CC-100] (http://data.statmt.org/cc-100/) - CC crawls from Jan-Dec 2018  
+  - [CC-100](http://data.statmt.org/cc-100/) - CC crawls from Jan-Dec 2018
 - [WMT News Crawl](http://data.statmt.org/news-crawl/ta/)
 - [AI4Bharat IndicCorp](https://indicnlp.ai4bharat.org/corpora/) - {582M}
 - [Kaggle Tamil Articles Corpus](https://www.kaggle.com/praveengovi/tamil-language-corpus-for-nlp)
@@ -137,6 +137,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Translation
 
+- [WMT20 NEWS MT Task](http://www.statmt.org/wmt20/translation-task.html) - {2020, Collection of different datasets}
 - [CVIT-IIITH](http://preon.iiit.ac.in/~jerin/resources/datasets/) - {[Website](http://preon.iiit.ac.in/~jerin/bhasha/)}
   - Contains data mined from: Press Information Bureau (PIB) and Manathin Kural (MkB)
 - [PM India Corpus](https://arxiv.org/pdf/2001.09907.pdf) - {2019, [Download link](http://data.statmt.org/pmindia)}
