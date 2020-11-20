@@ -147,6 +147,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Facebook WikiMatrix](https://ai.facebook.com/blog/wikimatrix) - {2019, Might be noisy}
 - [Facebook CommonCrawl-Matrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix) - {2019, Might be noisy)
 - [WAT Translation Task](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html) - Other datasets
+- [CC Aligned](http://statmt.org/cc-aligned/) - {2020, Collection of Cross-lingual Web-Document Pairs}
 - [NLPC-UoM English-Tamil Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus) - {2019, 9k sentences}
 - [VPT-IL-FIRE2018](http://78.46.86.133/VPT-IL-FIRE2018/)
 - [English-Tamil Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz)
@@ -160,7 +161,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Transliteration
 
-- [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina) - {300k pairs}
+- [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina)
 - [NEWS2018 Dataset](http://workshop.colips.org/news2018/dataset.html)
 - [Thirukkural Transliteration](https://github.com/narVidhai/Thirukkural-transliteration-data)
 
