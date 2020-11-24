@@ -144,6 +144,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [CVIT-IIITH](http://preon.iiit.ac.in/~jerin/resources/datasets/) - {[Website](http://preon.iiit.ac.in/~jerin/bhasha/)}
   - Contains data mined from: Press Information Bureau (PIB) and Manathin Kural (MkB)
 - [PM India Corpus](https://arxiv.org/pdf/2001.09907.pdf) - {2019, [Download link](http://data.statmt.org/pmindia)}
+- [Anuvaad Parallel Corpus](https://github.com/project-anuvaad/anuvaad-parallel-corpus)
 - [OPUS Corpus](http://opus.nlpl.eu/) (Search en->ta)
 - [Charles University English-Tamil Parallel Corpus](http://ufal.mff.cuni.cz/~ramasamy/parallel/html/)
 - [MTurks Crowd-sourced](https://github.com/joshua-decoder/indian-parallel-corpora) - {2012}
