@@ -158,6 +158,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [MIDAS-NMT-English-Tamil](https://github.com/precog-iiitd/MIDAS-NMT-English-Tamil)
 - [Corpus by University of Moratuwa](https://github.com/nlpcuom/English-Tamil-Parallel-Corpus)
 - [Sinhala-Tamil parallel corpus](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/) - {[Paper1](https://www.aclweb.org/anthology/U14-1018/), [Paper2](https://ieeexplore.ieee.org/document/7980522), Data available on request?, [Test set](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)}
+- [cEnTam: Creation of a New English-Tamil Corpus](https://www.aclweb.org/anthology/2020.bucc-1.10.pdf) - {2020, Dataset available on request}
+- [EnTam v2.0: An English-Tamil Parallel Corpus](http://eudat7-ingest.dkrz.de/dataset/9eb44325-3708-574f-a0da-4e8ccff2aa66)
 - [JW300 Corpus](http://opus.nlpl.eu/JW300.php) - Parallel corpus mined from jw.org. Religious text from Jehovah's Witness.
 - [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel)
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp) - Available only on request
@@ -229,6 +231,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Dravidian-CodeMix - FIRE2020](https://dravidian-codemix.github.io/2020/datasets.html) - {2020, [Paper](https://www.aclweb.org/anthology/2020.sltu-1.28.pdf)}
 - [Twitter Keyword based Emotion Corpus](https://osf.io/48awk/) - {2019}
 - [ACTSEA: Annotated Corpus for Tamil & Sinhala Emotion Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis)
+- [Tamil 1k Tweets For Binary Sentiment Analysis](https://kracekumar.com/post/tamil_1k_tweets_binary_sentiment/)
 
 ### Lexical Resources
 
