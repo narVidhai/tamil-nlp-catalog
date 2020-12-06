@@ -155,6 +155,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [NLPC-UoM English-Tamil Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus) - {2019, 9k sentences}
 - [VPT-IL-FIRE2018](http://78.46.86.133/VPT-IL-FIRE2018/)
 - [English-Tamil Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz)
+- [Corpus by University of Moratuwa](https://github.com/nlpcuom/English-Tamil-Parallel-Corpus)
 - [JW300 Corpus](http://opus.nlpl.eu/JW300.php) - Parallel corpus mined from jw.org. Religious text from Jehovah's Witness.
 - [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel)
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp) - Available only on request
