@@ -195,6 +195,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [FIRE2014](http://www.au-kbc.org/nlp/NER-FIRE2014/)
 - [FIRE2015 Social Media Text](http://au-kbc.org/nlp/ESM-FIRE2015/) - Tweets
 - [WikiAnn](https://elisa-ie.github.io/wikiann) - ([Latest Download Link](https://drive.google.com/drive/folders/1Q-xdT99SeaCghihGa7nRkcXGwRGUIsKN))
+- [University of Moratuwa NER](https://github.com/nlpcuom/Sinhala-and-Tamil-NER) - {2019}
+- [Tamil Noun Classifier](https://github.com/sarves/Tamil-Noun-Classifier)
 
 ### Text Classification
 
@@ -249,6 +251,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - **Part-Of-Speech (POS) Tagging**
   - [AUKBC-TamilPOSCorpus2016v1](http://www.au-kbc.org/nlp/corpusrelease.html)
+  - [ThamizhiPOSt](https://github.com/nlpcuom/ThamizhiPOSt)
   - [Universal Dependencies](https://universaldependencies.org/)
   
 - **Information Extraction**  
@@ -273,6 +276,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [Indic to Pure Tamil](https://github.com/narVidhai/Indic-To-Pure-Tamil)
   - [English to Tamil](https://www.kaggle.com/muthua/tamil-loan-words-classification)
   - [Tamil Glossary Dataset](https://osf.io/ngt6v/)
+  - [Thamizhi Word Validator](https://github.com/sarves/thamizhi-validator)
 
 - **Image-based**
   - [A Dataset for Troll Classification of TamilMemes](https://github.com/sharduls007/TamilMemes) - {2020, [Paper](https://www.aclweb.org/anthology/2020.wildre-1.2.pdf)}
