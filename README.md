@@ -82,7 +82,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md)
 - [XML RoBERTa](https://huggingface.co/transformers/model_doc/xlmroberta.html)
 - [AI4Bharat ALBERT](https://indicnlp.ai4bharat.org/indic-bert)
-- [Google ELECTRA - TaMillion](https://huggingface.co/monsoon-nlp/tamillion)
+- [Google ELECTRA - TaMillion](https://huggingface.co/monsoon-nlp/tamillion) - {2020, [Code](https://mapmeld.medium.com/training-bangla-and-tamil-language-bert-models-46d7262b550f)}
 - [Google Multilingual T5](https://github.com/google-research/multilingual-t5)
 - [Google MuRIL](https://tfhub.dev/google/MuRIL/1)
 
@@ -210,6 +210,11 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - Wiki Cloze-style Question Answering
 - [AI4Bharat News Article Classification](https://github.com/AI4Bharat/indicnlp_corpus#indicnlp-news-article-classification-dataset)
 - [iNLTK News Articles Classification](https://www.kaggle.com/disisbig/tamil-news-dataset)
+- [Indic Tamil NLP 2018](https://www.kaggle.com/sudalairajkumar/tamil-nlp)
+  - Thirukkural Dataset - {Aṟam, Poruḷ, Inbam} classification
+  - Movie Review Dataset
+  - News Classficaition
+- [A Dataset for Troll Classification of TamilMemes](https://github.com/sharduls007/TamilMemes) - {2020, [Paper](https://www.aclweb.org/anthology/2020.wildre-1.2.pdf)}
 
 ### OCR
 
@@ -284,9 +289,6 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [English to Tamil](https://www.kaggle.com/muthua/tamil-loan-words-classification)
   - [Tamil Glossary Dataset](https://osf.io/ngt6v/)
   - [Thamizhi Word Validator](https://github.com/sarves/thamizhi-validator)
-
-- **Image-based**
-  - [A Dataset for Troll Classification of TamilMemes](https://github.com/sharduls007/TamilMemes) - {2020, [Paper](https://www.aclweb.org/anthology/2020.wildre-1.2.pdf)}
 
 ---
 
