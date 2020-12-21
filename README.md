@@ -116,8 +116,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Miscellaneous
 
-- [Chatbot NER](https://github.com/hellohaptik/chatbot_ner/)
 - [Tamilinaiya Spell Checker](https://github.com/tshrinivasan/Tamilinaiya-Spellchecker)
+- [Tamil Language Model and Tokenizer](https://github.com/ravi-annaswamy/tamil_lm_spm_fai) - {2018}
 
 ---
 
@@ -196,6 +196,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Named Entity Recognition
 
+- [Chatbot NER](https://github.com/hellohaptik/chatbot_ner/)
 - [FIRE2014](http://www.au-kbc.org/nlp/NER-FIRE2014/)
 - [FIRE2015 Social Media Text](http://au-kbc.org/nlp/ESM-FIRE2015/) - Tweets
 - [WikiAnn](https://elisa-ie.github.io/wikiann) - ([Latest Download Link](https://drive.google.com/drive/folders/1Q-xdT99SeaCghihGa7nRkcXGwRGUIsKN))
