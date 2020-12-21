@@ -125,16 +125,19 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Monolingual Corpus
 
-- [WikiDumps](https://dumps.wikimedia.org/tawiki/)
 - CommonCrawl
   - [OSCAR Corpus 2019](https://oscar-corpus.com/) - Deduplicated Corpus {226M Tokens, 5.1GB)
   - [WMT Raw 2017](http://data.statmt.org/ngrams/raw/) - CC crawls from 2012-2016
   - [CC-100](http://data.statmt.org/cc-100/) - CC crawls from Jan-Dec 2018
-- [WMT News Crawl](http://data.statmt.org/news-crawl/ta/)
 - [AI4Bharat IndicCorp](https://indicnlp.ai4bharat.org/corpora/) - {582M}
-- [Kaggle Tamil Articles Corpus](https://www.kaggle.com/praveengovi/tamil-language-corpus-for-nlp)
-- [LDCIL Standard Text Corpus](https://data.ldcil.org/a-gold-standard-tamil-raw-text-corpus) - Free for students/faculties {11M tokens}
 - [EMILLE Corpus](https://www.lancaster.ac.uk/fass/projects/corpus/emille/) - {20M Tokens}
+
+- [WikiDumps](https://dumps.wikimedia.org/tawiki/)
+- [WMT News Crawl](http://data.statmt.org/news-crawl/ta/)
+- [Kaggle Tamil Articles Corpus](https://www.kaggle.com/praveengovi/tamil-language-corpus-for-nlp)
+- [Dinamalar News Corpus](https://www.kaggle.com/vijayabhaskar96/tamil-news-dataset-19-million-records) - {2009-19, 120k articles}
+- [TamilMurasu News Articles](https://www.kaggle.com/vijayabhaskar96/tamil-news-classification-dataset-tamilmurasu) - {2011-19, 127k articles}
+- [LDCIL Standard Text Corpus](https://data.ldcil.org/a-gold-standard-tamil-raw-text-corpus) - Free for students/faculties {11M tokens}
 - [Leipzig Corpora](https://wortschatz.uni-leipzig.de/en/download/tamil)
 - [Project Madurai](https://www.projectmadurai.org/pmworks.html)
 
@@ -210,7 +213,9 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - Wikipedia Section Title Classification
   - Wiki Cloze-style Question Answering
 - [AI4Bharat News Article Classification](https://github.com/AI4Bharat/indicnlp_corpus#indicnlp-news-article-classification-dataset)
+
 - [iNLTK News Articles Classification](https://www.kaggle.com/disisbig/tamil-news-dataset)
+- [TamilMurasu News Articles Classification](https://www.kaggle.com/vijayabhaskar96/tamil-news-classification-dataset-tamilmurasu)
 - [Indic Tamil NLP 2018](https://www.kaggle.com/sudalairajkumar/tamil-nlp)
   - Thirukkural Dataset - {Aṟam, Poruḷ, Inbam} classification
   - Movie Review Dataset
