@@ -84,7 +84,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [AI4Bharat ALBERT](https://indicnlp.ai4bharat.org/indic-bert)
 - [Google ELECTRA - TaMillion](https://huggingface.co/monsoon-nlp/tamillion) - {2020, [Code](https://mapmeld.medium.com/training-bangla-and-tamil-language-bert-models-46d7262b550f)}
 - [Google Multilingual T5](https://github.com/google-research/multilingual-t5)
-- [Google MuRIL](https://tfhub.dev/google/MuRIL/1)
+- Google MuRIL - {2020, [TF-Hub](https://tfhub.dev/google/MuRIL/1), [HuggingFace](https://twitter.com/mapmeld/status/1340520750432866305)}
 
 ### Translation
 
