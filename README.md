@@ -241,6 +241,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html)
 - [Dravidian-CodeMix - FIRE2020](https://dravidian-codemix.github.io/2020/datasets.html) - {2020, [Paper](https://www.aclweb.org/anthology/2020.sltu-1.28.pdf)}
+  - Implementations: [Theedhum Nandrum](https://github.com/oligoglot/theedhum-nandrum)
 - [Twitter Keyword based Emotion Corpus](https://osf.io/48awk/) - {2019}
 - [ACTSEA: Annotated Corpus for Tamil & Sinhala Emotion Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis)
 - [Tamil 1k Tweets For Binary Sentiment Analysis](https://kracekumar.com/post/tamil_1k_tweets_binary_sentiment/)
