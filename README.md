@@ -118,6 +118,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - [Tamilinaiya Spell Checker](https://github.com/tshrinivasan/Tamilinaiya-Spellchecker)
 - [Tamil Language Model and Tokenizer](https://github.com/ravi-annaswamy/tamil_lm_spm_fai) - {2018}
+- [Indic POS Tagger](https://github.com/avineshpvs/indic_tagger)
 
 ---
 
