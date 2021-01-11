@@ -222,6 +222,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - Movie Review Dataset
   - News Classficaition
 - [A Dataset for Troll Classification of TamilMemes](https://github.com/sharduls007/TamilMemes) - {2020, [Paper](https://www.aclweb.org/anthology/2020.wildre-1.2.pdf)}
+- [Offensive Language Identification in Dravidian Languages](https://competitions.codalab.org/competitions/27654)
 
 ### OCR
 
