@@ -18,6 +18,7 @@
   * [Named Entity Recognition](#named-entity-recognition)
   * [Text Classification](#text-classification)
   * [OCR](#ocr-1)
+  * [Part-of-Speech (POS) Tagging](part-of-speech-pos-tagging)
   * [Sentiment & Emotion Analysis](#sentiment-sarcasm-emotion-analysis)
   * [Lexical Resources](#lexical-resources)
   * [Benchmarks](#benchmarks)
