@@ -266,6 +266,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [XNLI 2019](https://www.gujaratresearchsociety.in/index.php/JGRS/article/view/3426) - Request via email
   - [AI4Bharat Cross-Lingual Sentence Retrieval](https://indicnlp.ai4bharat.org/indic-glue/)
   - [Multilingual Entity-Linking from WikiNews](http://goo.gle/mewsli-dataset) - {2020}
+  - [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://github.com/thunlp/XQA) - {2019, [Paper](https://www.aclweb.org/anthology/P19-1227.pdf)}
   
 - **Dialogue**
   - [Code-Mixed-Dialog 2018](https://github.com/sumanbanerjee1/Code-Mixed-Dialog)
