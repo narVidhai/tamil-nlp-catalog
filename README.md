@@ -239,6 +239,11 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - [SynthText](https://github.com/IngleJaya95/SynthTextHindi) - {2019, [Dataset](https://drive.google.com/drive/folders/1fx1D1EW_6_j9tzzXSajM8iQygeMLLMcU)}
 
+### Part-Of-Speech (POS) Tagging
+- [AUKBC-TamilPOSCorpus2016v1](http://www.au-kbc.org/nlp/corpusrelease.html)
+- [ThamizhiPOSt](https://github.com/nlpcuom/ThamizhiPOSt)
+- [Universal Dependencies](https://universaldependencies.org/)
+
 ### Sentiment, Sarcasm, Emotion Analysis
 
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html)
@@ -271,11 +276,6 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   
 - **Dialogue**
   - [Code-Mixed-Dialog 2018](https://github.com/sumanbanerjee1/Code-Mixed-Dialog)
-
-- **Part-Of-Speech (POS) Tagging**
-  - [AUKBC-TamilPOSCorpus2016v1](http://www.au-kbc.org/nlp/corpusrelease.html)
-  - [ThamizhiPOSt](https://github.com/nlpcuom/ThamizhiPOSt)
-  - [Universal Dependencies](https://universaldependencies.org/)
   
 - **Information Extraction**  
   (*Can also be event extraction or entity extraction*)
