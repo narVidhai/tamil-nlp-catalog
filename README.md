@@ -104,6 +104,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration)
 - [AksharaMukha](http://aksharamukha.appspot.com/converter) - [API](http://aksharamukha.appspot.com/python)
 - LibIndic - [Rule-based](https://github.com/libindic/Transliteration) | [Model-based](https://github.com/libindic/indic-trans)
+- [PolyGlot Transliteration](https://polyglot.readthedocs.io/en/latest/Transliteration.html)
 - [EpiTran](https://pypi.org/project/epitran/) - IPA Transliteration
 
 ### OCR
