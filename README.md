@@ -136,15 +136,17 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [WMT Raw 2017](http://data.statmt.org/ngrams/raw/) - CC crawls from 2012-2016
   - [CC-100](http://data.statmt.org/cc-100/) - CC crawls from Jan-Dec 2018
 - [AI4Bharat IndicCorp](https://indicnlp.ai4bharat.org/corpora/) - {582M}
-- [EMILLE Corpus](https://www.lancaster.ac.uk/fass/projects/corpus/emille/) - {20M Tokens}
-
 - [WikiDumps](https://dumps.wikimedia.org/tawiki/)
 - [WMT News Crawl](http://data.statmt.org/news-crawl/ta/)
 - [Kaggle Tamil Articles Corpus](https://www.kaggle.com/praveengovi/tamil-language-corpus-for-nlp)
 - [Dinamalar News Corpus](https://www.kaggle.com/vijayabhaskar96/tamil-news-dataset-19-million-records) - {2009-19, 120k articles}
 - [TamilMurasu News Articles](https://www.kaggle.com/vijayabhaskar96/tamil-news-classification-dataset-tamilmurasu) - {2011-19, 127k articles}
-- [LDCIL Standard Text Corpus](https://data.ldcil.org/a-gold-standard-tamil-raw-text-corpus) - Free for students/faculties {11M tokens}
 - [Leipzig Corpora](https://wortschatz.uni-leipzig.de/en/download/tamil)
+
+#### Government Raw Text
+
+- [LDCIL Standard Text Corpus](https://data.ldcil.org/a-gold-standard-tamil-raw-text-corpus) - Free for students/faculties {11M tokens}
+- [EMILLE Corpus](http://www.emille.lancs.ac.uk/) - {20M Tokens, developed [in collaboration with CIIL](http://corpora.ciil.org/)}
 - [Project Madurai](https://www.projectmadurai.org/pmworks.html)
 
 ### Translation
@@ -163,13 +165,15 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp) - Available only on request
 - TDIL EILMT
-  - [Tourism](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1422&lang=en)
-  - [Agriculture](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1801&lang=en)
-  - [Health](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1789&lang=en)
+  - [Tourism](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1422&lang=en), [Agriculture](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1801&lang=en), [Health](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1789&lang=en)
+  - Mirrored at [NLPT](https://nplt.in/demo/index.php?route=product/category&path=75_59&limit=100)
+- Hindi-Tamil ILCI
+  - [Parallel Chunked Text Corpus ILCI-II](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=2067&lang=en), [Tourism Text Corpus](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1411), [Agriculture & Entertainment Text Corpus-ILCI II](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1675), [General Text Corpus](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1271), [Health Text Corpus](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1394)
+- [Telugu-Tamil General Text Corpus](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1570)
 
 #### Papers
 
-- [Sinhala-Tamil parallel corpus](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/) - {[Paper1](https://www.aclweb.org/anthology/U14-1018/), [Paper2](https://ieeexplore.ieee.org/document/7980522), Data available on request?, [Test set](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)}
+- [Sinhala-Tamil Parallel Corpus](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/) - {[Paper1](https://www.aclweb.org/anthology/U14-1018/), [Paper2](https://ieeexplore.ieee.org/document/7980522), Data available on request?, [Test set](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)}
 - [cEnTam: Creation of a New English-Tamil Corpus, 2020](https://www.aclweb.org/anthology/2020.bucc-1.10.pdf) - Uses OPUS+WMT20 data
 - [MIDAS-NMT, 2018](https://github.com/precog-iiitd/MIDAS-NMT-English-Tamil) - Uses OPUS+EnTam data
 
