@@ -149,18 +149,14 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Translation
 
 - [OPUS Corpus](http://opus.nlpl.eu/) (Search en->ta)
-  - Contains [CC Aligned](http://statmt.org/cc-aligned/), [JW300](https://opus.nlpl.eu/JW300-v1.php), [Tanzil](https://opus.nlpl.eu/Tanzil.php), [bible-corpus](https://github.com/christos-c/bible-corpus), [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix), and more...
-- [MultiIndicMT - WAT2021](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html)
+  - Contains [MultiCC Aligned](http://statmt.org/cc-aligned/), [JW300](https://opus.nlpl.eu/JW300-v1.php), [Tanzil](https://opus.nlpl.eu/Tanzil.php), [bible-corpus](https://github.com/christos-c/bible-corpus), [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix), and more...
+  - Note: CC-Aligned overlaps with [CommonCrawl-Matrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix)
+- [MultiIndicMT - WAT2021](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html) / [WMT20 NEWS MT Task](http://www.statmt.org/wmt20/translation-task.html#download)
   - Contains [PM India Corpus](http://data.statmt.org/pmindia), [Manathin Kural (CVIT-MkB)](http://preon.iiit.ac.in/~jerin/bhasha/), [NLPC-UoM Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus), [Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz), [Charles University EnTam v2.0 Corpus](http://ufal.mff.cuni.cz/~ramasamy/parallel/html/)
-  - Significant overlap with [WMT20 NEWS MT Task](http://www.statmt.org/wmt20/translation-task.html#download) also
 - [MTurks Crowd-sourced](https://github.com/joshua-decoder/indian-parallel-corpora) - {2012}
-- [Facebook CommonCrawl-Matrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix) - {2019, Might be noisy)
-- [VPT-IL-FIRE2018](http://78.46.86.133/VPT-IL-FIRE2018/)
-- [MIDAS-NMT-English-Tamil](https://github.com/precog-iiitd/MIDAS-NMT-English-Tamil)
-- [Sinhala-Tamil parallel corpus](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/) - {[Paper1](https://www.aclweb.org/anthology/U14-1018/), [Paper2](https://ieeexplore.ieee.org/document/7980522), Data available on request?, [Test set](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)}
-- [cEnTam: Creation of a New English-Tamil Corpus](https://www.aclweb.org/anthology/2020.bucc-1.10.pdf) - {2020, Dataset available on request}
 - [Anuvaad Parallel Corpus](https://github.com/project-anuvaad/anuvaad-parallel-corpus) - Synthetic data
 - [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel)
+- [VPT-IL-FIRE2018](http://78.46.86.133/VPT-IL-FIRE2018/) - 3k verb phrases, available on request
 
 #### Government parallel data
 
@@ -169,6 +165,12 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [Tourism](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1422&lang=en)
   - [Agriculture](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1801&lang=en)
   - [Health](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1789&lang=en)
+
+#### Papers
+
+- [Sinhala-Tamil parallel corpus](https://ucsc.cmb.ac.lk/machine-translation-system-sinhala-tamil-language-pair/) - {[Paper1](https://www.aclweb.org/anthology/U14-1018/), [Paper2](https://ieeexplore.ieee.org/document/7980522), Data available on request?, [Test set](https://github.com/nlpc-uom/Sinhala-Tamil-Aligned-Parallel-Corpus)}
+- [cEnTam: Creation of a New English-Tamil Corpus, 2020](https://www.aclweb.org/anthology/2020.bucc-1.10.pdf) - Uses OPUS+WMT20 data
+- [MIDAS-NMT, 2018](https://github.com/precog-iiitd/MIDAS-NMT-English-Tamil) - Uses OPUS+EnTam data
 
 ### Transliteration
 
