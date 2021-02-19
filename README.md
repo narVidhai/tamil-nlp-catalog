@@ -24,6 +24,7 @@ Note:
   - [Word Embeddings](#word-embeddings)
   - [Transformers, BERT](#transformers-bert)
   - [Translation](#translation)
+    - [Online translation libraries](#online-translation-libraries)
   - [Transliteration](#transliteration)
   - [OCR](#ocr)
   - [Speech](#speech)
