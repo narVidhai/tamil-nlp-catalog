@@ -100,6 +100,10 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [Anuvaad](https://github.com/notAI-tech/Anuvaad)
   - [Facebook Many-to-Many Translation](https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation)
 
+#### Online translation libraries
+
+- [Python Translators](https://github.com/UlionTse/translators)
+
 ### Transliteration
 
 - [AI4Bharat Xlit](https://pypi.org/project/ai4bharat-transliteration/)
