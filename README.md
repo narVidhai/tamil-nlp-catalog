@@ -263,6 +263,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Twitter Keyword based Emotion Corpus](https://osf.io/48awk/) - {2019}
 - [ACTSEA: Annotated Corpus for Tamil & Sinhala Emotion Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis)
 - [Tamil 1k Tweets For Binary Sentiment Analysis](https://kracekumar.com/post/tamil_1k_tweets_binary_sentiment/)
+- [Hope Speech Dataset](https://competitions.codalab.org/competitions/27653)
 
 ### Lexical Resources
 
