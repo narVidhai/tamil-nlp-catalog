@@ -93,13 +93,13 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Translation
 
-- Moses SMT
-  - [Śata-Anuva̅dak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/)
 - NMT
-  - [IndicMulti](https://github.com/jerinphilip/ilmulti)
-- Transformers
-  - [Anuvaad](https://github.com/notAI-tech/Anuvaad)
+  - [AI4Bharat IndicTrans](https://indicnlp.ai4bharat.org/indic-trans/) - {2021, [Paper](https://arxiv.org/abs/2104.05596)}
+  - [not-AI-Tech Anuvaad](https://github.com/notAI-tech/Anuvaad) - {2020, mT5 model fine-tuned on public datasets}
+  - [III-H IndicMulti](https://github.com/jerinphilip/ilmulti)
   - [Facebook Many-to-Many Translation](https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation)
+- Moses SMT
+  - [IIT-B Śata-Anuva̅dak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/)
 
 #### Online translation libraries
 
@@ -158,14 +158,17 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 ### Translation
 
+- [AI4Bharat Samān-Antar](https://indicnlp.ai4bharat.org/samanantar/) {[Paper](https://arxiv.org/abs/2104.05596)}
+  - Contains most open source datasets also as of March 2021
 - [OPUS Corpus](http://opus.nlpl.eu/) (Search en->ta)
   - Contains [MultiCC Aligned](http://statmt.org/cc-aligned/), [JW300](https://opus.nlpl.eu/JW300-v1.php), [Tanzil](https://opus.nlpl.eu/Tanzil.php), [bible-corpus](https://github.com/christos-c/bible-corpus), [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix), and more...
   - Note: CC-Aligned overlaps with [CommonCrawl-Matrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix)
 - [MultiIndicMT - WAT2021](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html) / [WMT20 NEWS MT Task](http://www.statmt.org/wmt20/translation-task.html#download)
   - Contains [PM India Corpus](http://data.statmt.org/pmindia), [Manathin Kural (CVIT-MkB)](http://preon.iiit.ac.in/~jerin/bhasha/), [NLPC-UoM Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus), [Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz), [Charles University EnTam v2.0 Corpus](http://ufal.mff.cuni.cz/~ramasamy/parallel/html/)
 - [MTurks Crowd-sourced](https://github.com/joshua-decoder/indian-parallel-corpora) - {2012}
-- [Anuvaad Parallel Corpora](https://github.com/project-anuvaad/anuvaad-parallel-corpus)
-- [Anuvaad Synthetic Parallel Corpus](https://github.com/project-anuvaad/parallel-corpus) - Translations generated using Google
+- EkStep Anuvaad
+  - [Parallel Corpora](https://github.com/project-anuvaad/anuvaad-parallel-corpus)
+  - [Synthetic Corpus](https://github.com/project-anuvaad/parallel-corpus) - Translations generated using Google
 - [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md)
 - [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel)
 - [VPT-IL-FIRE2018](http://78.46.86.133/VPT-IL-FIRE2018/) - 3k verb phrases, available on request
@@ -175,7 +178,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp) - Available only on request
 - TDIL EILMT
   - [Tourism](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1422&lang=en), [Agriculture](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1801&lang=en), [Health](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1789&lang=en)
-  - Mirrored at [NLPT](https://nplt.in/demo/index.php?route=product/category&path=75_59&limit=100)
+  - Mirrored at [NPLT](https://nplt.in/demo/index.php?route=product/category&path=75_59&limit=100)
 - Hindi-Tamil ILCI
   - [Parallel Chunked Text Corpus ILCI-II](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=2067&lang=en), [Tourism Text Corpus](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1411), [Agriculture & Entertainment Text Corpus-ILCI II](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1675), [General Text Corpus](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1271), [Health Text Corpus](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1394)
 - [Telugu-Tamil General Text Corpus](https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1570)
