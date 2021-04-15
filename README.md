@@ -96,8 +96,9 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - NMT
   - [AI4Bharat IndicTrans](https://indicnlp.ai4bharat.org/indic-trans/) - {2021, [Paper](https://arxiv.org/abs/2104.05596)}
   - [not-AI-Tech Anuvaad](https://github.com/notAI-tech/Anuvaad) - {2020, mT5 model fine-tuned on public datasets}
-  - [III-H IndicMulti](https://github.com/jerinphilip/ilmulti)
+  - [IIIT-H IndicMulti](https://github.com/jerinphilip/ilmulti)
   - [Facebook Many-to-Many Translation](https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation)
+  - [OPUS MT Pre-trained Models](https://github.com/Helsinki-NLP/Opus-MT)
 - Moses SMT
   - [IIT-B Śata-Anuva̅dak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/)
 
