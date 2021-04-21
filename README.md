@@ -28,6 +28,7 @@ Note:
   - [Transliteration](#transliteration)
   - [OCR](#ocr)
   - [Speech](#speech)
+  - [Grammar](#grammar)
   - [Miscellaneous](#miscellaneous)
 - [**Datasets**](#datasets)
   - [Monolingual Corpus](#monolingual-corpus)
