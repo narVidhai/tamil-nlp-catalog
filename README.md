@@ -61,10 +61,8 @@ Note:
 
 ### General
 
-- [iNLTK](https://inltk.readthedocs.io/) - Indian NLP ToolKit
-  - Tools for processing and trained models
-- [Indic NLP Library](http://anoopkunchukuttan.github.io/indic_nlp_library/)
-  - Script-processing tools
+- [iNLTK](https://inltk.readthedocs.io/) (Tools for processing and trained models)
+- [Indic NLP Library](http://anoopkunchukuttan.github.io/indic_nlp_library/) (Script-processing tools)
 
 Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-Foundation/awesome-tamil) for lot more resources!
 
@@ -126,6 +124,11 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Vākyānsh ASR](https://sunbird.org/projects/vakyansh)
 - [IIT-M TTS](https://github.com/tshrinivasan/tamil-tts-install)
 - [VasuRobo Speech Recognizer](https://github.com/vasurobo/tamil-speech-recognition)
+
+### Grammar
+
+- [Tamil Prosody (யாப்பிலக்கணம்) Analyzer](https://github.com/virtualvinodh/avalokitam)
+- [Google Nisaba (Text Processing Grammar)](https://github.com/google-research/nisaba/blob/main/nisaba/brahmic/README.md)
 
 ### Miscellaneous
 
