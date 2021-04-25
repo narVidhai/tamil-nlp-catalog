@@ -198,7 +198,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina)
 - [NEWS2018 Dataset](http://workshop.colips.org/news2018/dataset.html)
-- [Thirukkural Transliteration](https://github.com/narVidhai/Thirukkural-transliteration-data)
+- [ICTA English-Sinhala-Tamil Names](https://www.language.lk/en/resources/code-resources/) - {2009, 10k triplets, SQL format}
+- [Thirukkural Transliteration](https://github.com/narVidhai/Thirukkural-transliteration-data) (Old Tamil)
 
 ### Speech, Audio
 
