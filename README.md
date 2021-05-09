@@ -198,6 +198,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - [Google Dakshina Dataset](https://github.com/google-research-datasets/dakshina)
 - [NEWS2018 Dataset](http://workshop.colips.org/news2018/dataset.html)
+- [Microsoft Multi-Indic Mined Corpus](https://github.com/anoopkunchukuttan/indic_transliteration_analysis) - {2021, [Paper](https://www.aclweb.org/anthology/2021.eacl-main.303/)}
+- [TRANSLIT: A Large-scale Name Transliteration Resource](https://github.com/fbenites/TRANSLIT) - {2020, [Paper](https://www.aclweb.org/anthology/2020.lrec-1.399.pdf)}
 - [ICTA English-Sinhala-Tamil Names](https://www.language.lk/en/resources/code-resources/) - {2009, 10k triplets, SQL format}
 - [Thirukkural Transliteration](https://github.com/narVidhai/Thirukkural-transliteration-data) (Old Tamil)
 
