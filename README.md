@@ -96,8 +96,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
   - [AI4Bharat IndicTrans](https://indicnlp.ai4bharat.org/indic-trans/) - {2021, [Paper](https://arxiv.org/abs/2104.05596)}
   - [not-AI-Tech Anuvaad](https://github.com/notAI-tech/Anuvaad) - {2020, mT5 model fine-tuned on public datasets}
   - [IIIT-H IndicMulti](https://github.com/jerinphilip/ilmulti)
-  - [Facebook Many-to-Many Translation](https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation)
-  - [OPUS MT Pre-trained Models](https://github.com/Helsinki-NLP/Opus-MT)
+  - [EasyNMT](https://github.com/UKPLab/EasyNMT) - Collection of open source multilingual NMT models
 - Moses SMT
   - [IIT-B Śata-Anuva̅dak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/)
 
@@ -177,6 +176,8 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Tatoeba Wiki Back-translated data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md)
 - [IndoWordNet](https://github.com/anoopkunchukuttan/indowordnet_parallel)
 - [VPT-IL-FIRE2018](http://78.46.86.133/VPT-IL-FIRE2018/) - 3k verb phrases, available on request
+
+Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to automatically download parallel data from many of the above sources.
 
 #### Government parallel data
 
