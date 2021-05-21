@@ -249,7 +249,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
   - Movie Review Dataset
   - News Classficaition
 - [A Dataset for Troll Classification of TamilMemes, 2020](https://github.com/bharathichezhiyan/TamilMemes)
-- [Offensive Language Identification in Dravidian Languages](https://competitions.codalab.org/competitions/27654)
+- [Offensive Language Identification in Dravidian Languages](https://competitions.codalab.org/competitions/27654) - {2020, [Dataset](https://github.com/manikandan-ravikiran/DOSA)}
 
 ### OCR
 
@@ -315,6 +315,8 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
   - [Paraphrase Identification - Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html)
   - [Anaphora Resolution from Social Media Text - FIRE2020](http://78.46.86.133/SocAnaRes-IL20/)
   - [MMDravi - Image Captioning and Translation Benchmark, 2019](https://github.com/bharathichezhiyan/multimodalmachinetranslation-Tamil) - Contains manually annotated data for dev & tests from Flickr30k dataset
+  - [AllNewLyrics Dataset - Tamil Song Lyrics](https://github.com/praveenraj0904/tamillyricscorpus) - {2021, [Paper](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.1/)}
+  - [TamilPaa Song-Lyrics Dataset, 2020](https://www.kaggle.com/sivaskvs/tamil-songs-lyrics-dataset)
 
 - **Reasoning**
   - [Cross-lingual Choice of Plausible Alternatives](https://github.com/cambridgeltl/xcopa) (XCOPA)
