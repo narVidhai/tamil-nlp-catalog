@@ -248,7 +248,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
   - Thirukkural Dataset - {Aṟam, Poruḷ, Inbam} classification
   - Movie Review Dataset
   - News Classficaition
-- [A Dataset for Troll Classification of TamilMemes](https://github.com/sharduls007/TamilMemes) - {2020, [Paper](https://www.aclweb.org/anthology/2020.wildre-1.2.pdf)}
+- [A Dataset for Troll Classification of TamilMemes, 2020](https://github.com/bharathichezhiyan/TamilMemes)
 - [Offensive Language Identification in Dravidian Languages](https://competitions.codalab.org/competitions/27654)
 
 ### OCR
@@ -273,12 +273,12 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 ### Sentiment, Sarcasm, Emotion Analysis
 
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html)
-- [Dravidian-CodeMix - FIRE2020](https://dravidian-codemix.github.io/2020/datasets.html) - {2020, [Paper](https://www.aclweb.org/anthology/2020.sltu-1.28.pdf)}
+- [Dravidian-CodeMix - FIRE2020](https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset) - {[Competition](https://dravidian-codemix.github.io/2020/datasets.html), [Paper](https://www.aclweb.org/anthology/2020.sltu-1.28.pdf), [TamilMixSentiment](https://github.com/bharathichezhiyan/TamilMixSentiment)}
   - Implementations: [Theedhum Nandrum](https://github.com/oligoglot/theedhum-nandrum)
 - [Twitter Keyword based Emotion Corpus](https://osf.io/48awk/) - {2019}
 - [ACTSEA: Annotated Corpus for Tamil & Sinhala Emotion Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis)
 - [Tamil 1k Tweets For Binary Sentiment Analysis](https://kracekumar.com/post/tamil_1k_tweets_binary_sentiment/)
-- [Hope Speech Dataset](https://competitions.codalab.org/competitions/27653)
+- [Hope Speech Dataset, 2020](https://github.com/bharathichezhiyan/HopeEDI) ([Competition](https://competitions.codalab.org/competitions/27653))
 
 ### Lexical Resources
 
@@ -314,6 +314,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 - **Misc**
   - [Paraphrase Identification - Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html)
   - [Anaphora Resolution from Social Media Text - FIRE2020](http://78.46.86.133/SocAnaRes-IL20/)
+  - [MMDravi - Image Captioning and Translation Benchmark, 2019](https://github.com/bharathichezhiyan/multimodalmachinetranslation-Tamil) - Contains manually annotated data for dev & tests from Flickr30k dataset
 
 - **Reasoning**
   - [Cross-lingual Choice of Plausible Alternatives](https://github.com/cambridgeltl/xcopa) (XCOPA)
