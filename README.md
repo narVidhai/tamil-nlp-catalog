@@ -210,6 +210,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 #### Speech-To-Text
 
+- [Ek-Step ULCA ASR dataset](https://github.com/Open-Speech-EkStep/ULCA-asr-dataset-corpus)
 - [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e)
 - [OpenSLR](http://www.openslr.org/resources.php) - {2020, 9 hours, [Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf)}
 - [IARPA Babel](https://catalog.ldc.upenn.edu/LDC2017S13) - {2017, 350 hours}
