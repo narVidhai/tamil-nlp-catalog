@@ -112,9 +112,11 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [notAI.tech DeepTranslit](https://github.com/notAI-tech/DeepTranslit)
 - [Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration)
 - [AksharaMukha](http://aksharamukha.appspot.com/converter) - [API](http://aksharamukha.appspot.com/python)
-- LibIndic - [Rule-based](https://github.com/libindic/Transliteration) | [Model-based](https://github.com/libindic/indic-trans)
+- LibIndic - [Rule-based and Model-based](https://github.com/libindic/indic-trans) | [English words](https://github.com/libindic/Transliteration)
 - [PolyGlot Transliteration](https://polyglot.readthedocs.io/en/latest/Transliteration.html)
 - [EpiTran](https://pypi.org/project/epitran/) - IPA Transliteration
+- [Word Phonemizer](https://github.com/bootphon/phonemizer)
+- [WikTra](https://twardoch.github.io/wiktra2/) - Tamil Romanizer
 
 ### OCR
 
@@ -137,6 +139,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Tamilinaiya Spell Checker](https://github.com/tshrinivasan/Tamilinaiya-Spellchecker)
 - [Tamil Language Model and Tokenizer](https://github.com/ravi-annaswamy/tamil_lm_spm_fai) - {2018}
 - [Indic POS Tagger](https://github.com/avineshpvs/indic_tagger)
+- [Punctuation Restoration](https://github.com/VarnithChordia/Multlingual_Punctuation_restoration)
 
 ---
 
