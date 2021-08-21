@@ -140,6 +140,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Tamil Language Model and Tokenizer](https://github.com/ravi-annaswamy/tamil_lm_spm_fai) - {2018}
 - [Indic POS Tagger](https://github.com/avineshpvs/indic_tagger)
 - [Punctuation Restoration](https://github.com/VarnithChordia/Multlingual_Punctuation_restoration)
+- [Number To Words](https://github.com/sutariyaraj/indic-num2words)
 
 ---
 
