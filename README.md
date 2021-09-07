@@ -47,7 +47,7 @@ Note:
     - [Character-level datasets](#character-level-datasets)
     - [Scene-Text Detection / Recognition](#scene-text-detection--recognition)
   - [Part-Of-Speech (POS) Tagging](#part-of-speech-pos-tagging)
-  - [Sentiment, Sarcasm, Emotion Analysis](#sentiment-sarcasm-emotion-analysis)
+  - [Sentiment, Sarcasm, Emotion and Abuse Analysis](#sentiment-sarcasm-emotion-and-abuse-analysis)
   - [Lexical Resources](#lexical-resources)
   - [Benchmarks](#benchmarks)
   - [Miscellaneous NLP Datasets](#miscellaneous-nlp-datasets)
