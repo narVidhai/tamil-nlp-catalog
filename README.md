@@ -277,7 +277,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 - [ThamizhiPOSt](https://github.com/nlpcuom/ThamizhiPOSt)
 - [Universal Dependencies](https://universaldependencies.org/)
 
-### Sentiment, Sarcasm, Emotion Analysis
+### Sentiment, Sarcasm, Emotion and Abuse Analysis
 
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html)
 - [Dravidian-CodeMix - FIRE2020](https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset) - {[Competition](https://dravidian-codemix.github.io/2020/datasets.html), [Paper](https://www.aclweb.org/anthology/2020.sltu-1.28.pdf), [TamilMixSentiment](https://github.com/bharathichezhiyan/TamilMixSentiment)}
@@ -286,6 +286,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 - [ACTSEA: Annotated Corpus for Tamil & Sinhala Emotion Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis)
 - [Tamil 1k Tweets For Binary Sentiment Analysis](https://kracekumar.com/post/tamil_1k_tweets_binary_sentiment/)
 - [Hope Speech Dataset, 2020](https://github.com/bharathichezhiyan/HopeEDI) ([Competition](https://competitions.codalab.org/competitions/27653))
+- [IIIT-D Abusive Comment Identification, 2021](https://www.kaggle.com/c/iiitd-abuse-detection-challenge/data)
 
 ### Lexical Resources
 
