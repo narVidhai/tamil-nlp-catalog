@@ -272,6 +272,10 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 - [SynthText](https://github.com/IngleJaya95/SynthTextHindi) - {2019, [Dataset](https://drive.google.com/drive/folders/1fx1D1EW_6_j9tzzXSajM8iQygeMLLMcU)}
 
+#### Document OCR
+
+- [Anuvaad OCR Corpus](https://github.com/project-anuvaad/anuvaad-ocr-corpus#tamil)
+
 ### Part-Of-Speech (POS) Tagging
 - [AUKBC-TamilPOSCorpus2016v1](http://www.au-kbc.org/nlp/corpusrelease.html)
 - [ThamizhiPOSt](https://github.com/nlpcuom/ThamizhiPOSt)
