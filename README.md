@@ -227,6 +227,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 - [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php) - {2020, [Competition](http://tdil-dc.in/ttsapi/ttschallenge2020/)}
 - [WikiPron](https://github.com/kylebgorman/wikipron) - Word Pronounciations from Wiki
+- [LinguaLibre](https://lingualibre.org/datasets/) - Wiktionary-based word corpus
 - [SLR65](http://openslr.org/65) - Crowdsourced high-quality Tamil multi-speaker speech dataset
 
 #### Audio
