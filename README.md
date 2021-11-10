@@ -90,7 +90,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [XML RoBERTa](https://huggingface.co/transformers/model_doc/xlmroberta.html)
 - AI4Bharat: [ALBERT](https://indicnlp.ai4bharat.org/indic-bert), [BART](https://github.com/AI4Bharat/indic-bart)
 - [Google ELECTRA - TaMillion](https://huggingface.co/monsoon-nlp/tamillion) - {2020, [Code](https://mapmeld.medium.com/training-bangla-and-tamil-language-bert-models-46d7262b550f)}
-- [Google Multilingual T5](https://github.com/google-research/multilingual-t5)
+- [Google Multilingual T5](https://github.com/google-research/multilingual-t5), [mT6 and DeltaLM](https://github.com/microsoft/unilm/tree/master/deltalm)
 - Google MuRIL - {2020, [TF-Hub](https://tfhub.dev/google/MuRIL/1), [HuggingFace](https://huggingface.co/google/muril-base-cased)}
 
 ### Translation
