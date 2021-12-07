@@ -127,7 +127,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 ### Speech
 
 - [Indic Wav2Vec2](https://indicnlp.ai4bharat.org/indicwav2vec/)
-- [Vākyānsh ASR](https://sunbird.org/projects/vakyansh)
+- [Vākyānsh ASR](https://github.com/Open-Speech-EkStep/vakyansh-models)
 - [IIT-M TTS](https://github.com/tshrinivasan/tamil-tts-install)
 - [VasuRobo Speech Recognizer](https://github.com/vasurobo/tamil-speech-recognition)
 
