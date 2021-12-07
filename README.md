@@ -330,6 +330,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
   - [Paraphrase Identification - Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html)
   - [Anaphora Resolution from Social Media Text - FIRE2020](http://78.46.86.133/SocAnaRes-IL20/)
   - [MMDravi - Image Captioning and Translation Benchmark, 2019](https://github.com/bharathichezhiyan/multimodalmachinetranslation-Tamil) - Contains manually annotated data for dev & tests from Flickr30k dataset
+  - [WIT : Wikipedia-based Image Text Dataset, 2021](https://github.com/google-research-datasets/wit)
   - [AllNewLyrics Dataset - Tamil Song Lyrics](https://github.com/praveenraj0904/tamillyricscorpus) - {2021, [Paper](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.1/)}
   - [TamilPaa Song-Lyrics Dataset, 2020](https://www.kaggle.com/sivaskvs/tamil-songs-lyrics-dataset)
 
