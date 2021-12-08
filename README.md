@@ -161,6 +161,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Dinamalar News Corpus](https://www.kaggle.com/vijayabhaskar96/tamil-news-dataset-19-million-records) - {2009-19, 120k articles}
 - [TamilMurasu News Articles](https://www.kaggle.com/vijayabhaskar96/tamil-news-classification-dataset-tamilmurasu) - {2011-19, 127k articles}
 - [Leipzig Corpora](https://wortschatz.uni-leipzig.de/en/download/tamil)
+- [Cholloadai, 2021](https://github.com/vanangamudi/cholloadai-2021) - 72M phrases (not sentences)
 
 #### Government Raw Text
 
