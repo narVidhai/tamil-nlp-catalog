@@ -141,7 +141,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 - [Tamilinaiya Spell Checker](https://github.com/tshrinivasan/Tamilinaiya-Spellchecker)
 - [Tamil Language Model and Tokenizer](https://github.com/ravi-annaswamy/tamil_lm_spm_fai) - {2018}
 - [Indic POS Tagger](https://github.com/avineshpvs/indic_tagger)
-- [Punctuation Restoration](https://github.com/VarnithChordia/Multlingual_Punctuation_restoration)
+- [Punctuation Restoration](https://github.com/VarnithChordia/Multlingual_Punctuation_restoration) & [Indic-Punct](https://github.com/Open-Speech-EkStep/indic-punct)
 - [Number To Words](https://github.com/sutariyaraj/indic-num2words)
 
 ---
