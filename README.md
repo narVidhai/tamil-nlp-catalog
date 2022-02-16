@@ -39,6 +39,7 @@ Note:
   - [Transliteration](#transliteration-1)
   - [Speech, Audio](#speech-audio)
     - [Speech-To-Text](#speech-to-text)
+    - [Speech Translation](#speech-translation)
     - [Text-to-Speech (TTS)](#text-to-speech-tts)
     - [Audio](#audio)
   - [Named Entity Recognition](#named-entity-recognition)
