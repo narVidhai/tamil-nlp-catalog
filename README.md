@@ -225,6 +225,10 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 - [Facebook CoVoST](https://github.com/facebookresearch/covost) - {2019, 2 hours}
 - [Spoken Tutorial](https://spoken-tutorial.org/) - TODO: Scrape from here
 
+#### Speech Translation
+
+- [Prabhupadavani](https://github.com/frozentoad9/CMST) - {2022, [Paper](https://arxiv.org/pdf/2201.11391.pdf)}
+
 #### Text-to-Speech (TTS)
 
 - [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php) - {2020, [Competition](http://tdil-dc.in/ttsapi/ttschallenge2020/)}
