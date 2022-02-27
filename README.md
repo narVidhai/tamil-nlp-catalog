@@ -290,16 +290,21 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 - [ThamizhiPOSt](https://github.com/nlpcuom/ThamizhiPOSt)
 - [Universal Dependencies](https://universaldependencies.org/)
 
-### Sentiment, Sarcasm, Emotion and Abuse Analysis
+### Sentiment and Abuse Analysis
 
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html)
-- [Dravidian-CodeMix - FIRE2020](https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset) - {[Competition](https://dravidian-codemix.github.io/2020/datasets.html), [Paper](https://www.aclweb.org/anthology/2020.sltu-1.28.pdf), [TamilMixSentiment](https://github.com/bharathichezhiyan/TamilMixSentiment)}
+- [Dravidian-CodeMix: Offensive Language Identification - FIRE2020](https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset) - {[Competition](https://dravidian-codemix.github.io/2020/datasets.html), [Paper](https://www.aclweb.org/anthology/2020.sltu-1.28.pdf), [TamilMixSentiment](https://github.com/bharathichezhiyan/TamilMixSentiment)}
   - Implementations: [Theedhum Nandrum](https://github.com/oligoglot/theedhum-nandrum)
 - [Twitter Keyword based Emotion Corpus](https://osf.io/48awk/) - {2019}
 - [ACTSEA: Annotated Corpus for Tamil & Sinhala Emotion Analysis](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis)
 - [Tamil 1k Tweets For Binary Sentiment Analysis](https://kracekumar.com/post/tamil_1k_tweets_binary_sentiment/)
 - [Hope Speech Dataset, 2020](https://github.com/bharathichezhiyan/HopeEDI) ([Competition](https://competitions.codalab.org/competitions/27653))
 - [IIIT-D Abusive Comment Identification, 2021](https://www.kaggle.com/c/iiitd-abuse-detection-challenge/data)
+- DravidianLangTech 2022
+  - [Toxic Span Identification](https://competitions.codalab.org/competitions/36395)
+  - [Multimodal Sentiment Analysis](https://competitions.codalab.org/competitions/36406)
+  - [Abusive Comment Detection](https://competitions.codalab.org/competitions/36403)
+  - [Emotion Analysis](https://competitions.codalab.org/competitions/36396)
 
 ### Lexical Resources
 
