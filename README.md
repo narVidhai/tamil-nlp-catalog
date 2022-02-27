@@ -4,8 +4,9 @@
 
 <img src="https://1.bp.blogspot.com/-jImAZD8-kIY/WhwLddVQ0FI/AAAAAAAABmY/cW7pjolPoS4KGb3iXrxikDBgWL3VLAqpwCEwYBhgL/s1600/A%2Btamil%2Btypo%2Bnw.jpg" height="400px" />
 
-The estimated worldwide Tamil population is around 80-85 million which is near to the population of Germany.  
-Hence it is crucial to work on NLP for தமிழ். This list will serve as a catalog for all resources related to Tamil NLP.
+The estimated worldwide Tamiḻ-speaking population is around 80-85 million, which is near to the population of Germany. Hence it is crucial to work on natural language processing for தமிழ் (Tamiḻ) and develop tools inorder to ensure the language is digitally well-represented.
+
+This list will serve as a catalog for all resources related to Tamil NLP.
 
 Note:
 - *Please use [GitHub Issues](https://github.com/narVidhai/tamil-nlp-catalog/issues) for queries/feedback or to **contribute** resources/links.*
@@ -17,7 +18,7 @@ Note:
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+## Table of Contents <!-- {docsify-ignore} -->
 
 - [**Tools, Libraries, Models**](#tools-libraries-models)
   - [General](#general)
