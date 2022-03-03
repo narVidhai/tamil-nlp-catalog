@@ -319,6 +319,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 - [Google XTREME](https://github.com/google-research/xtreme)
 - [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/)
+- [Vyākarana - Syntactic evaluation of language models](https://github.com/rajaswa/indic-syntax-evaluation) - {2021}
 
 ### Miscellaneous NLP Datasets
 
