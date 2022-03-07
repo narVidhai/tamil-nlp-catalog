@@ -289,7 +289,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 ### Part-Of-Speech (POS) Tagging
 - [AUKBC-TamilPOSCorpus2016v1](http://www.au-kbc.org/nlp/corpusrelease.html)
 - [ThamizhiPOSt](https://github.com/nlpcuom/ThamizhiPOSt)
-- [Universal Dependencies](https://universaldependencies.org/)
+- Treebanks from [Universal Dependencies](https://universaldependencies.org/ta/index.html)
 
 ### Sentiment and Abuse Analysis
 
