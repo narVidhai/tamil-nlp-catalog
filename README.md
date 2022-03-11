@@ -11,6 +11,7 @@ This list will serve as a catalog for all resources related to Tamil NLP.
 Note:
 - *Please use [GitHub Issues](https://github.com/narVidhai/tamil-nlp-catalog/issues) for queries/feedback or to **contribute** resources/links.*
 - *If you find this useful, please [star this on GitHub](https://github.com/narVidhai/tamil-nlp-catalog) to encourage this list to be active.*
+  - If you want to follow all latest updates in this catalog, press "watch" button on top-right of this repo.
 - *Share this [awesome website](https://narvidhai.github.io/tamil-nlp-catalog) if you liked it! :-)*
 
 <div id="toc-container">
