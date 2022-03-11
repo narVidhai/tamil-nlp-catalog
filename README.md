@@ -330,6 +330,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
   - [AI4Bharat Cross-lingual Semantic Textual Similarity](https://github.com/AI4Bharat/indicnlp_catalog/issues/146) - {2020}
   - [Multilingual Entity-Linking from WikiNews](http://goo.gle/mewsli-dataset) - {2020}
   - [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://github.com/thunlp/XQA) - {2019, [Paper](https://www.aclweb.org/anthology/P19-1227.pdf)}
+  - [IndicLink - Multilingual Fact Linking](https://github.com/google-research-datasets/IndicLink) - {2022}
   
 - **Dialogue**
   - [Code-Mixed-Dialog 2018](https://github.com/sumanbanerjee1/Code-Mixed-Dialog)
