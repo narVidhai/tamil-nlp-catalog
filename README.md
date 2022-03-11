@@ -131,6 +131,7 @@ Also check Ezhil Foundation's [Awesome-Tamil](https://github.com/Ezhil-Language-
 
 - [Indic Wav2Vec2](https://indicnlp.ai4bharat.org/indicwav2vec/)
 - [Vākyānsh ASR](https://github.com/Open-Speech-EkStep/vakyansh-models)
+- [Coqui](https://coqui.ai/tamil/itml/v0.1.0#download) - [StT](https://github.com/coqui-ai/STT)
 - [IIT-M TTS](https://github.com/tshrinivasan/tamil-tts-install)
 - [VasuRobo Speech Recognizer](https://github.com/vasurobo/tamil-speech-recognition)
 
