@@ -224,12 +224,13 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 - [OpenSLR](http://www.openslr.org/resources.php) - {2020, 9 hours, [Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf)}
 - [IARPA Babel](https://catalog.ldc.upenn.edu/LDC2017S13) - {2017, 350 hours}
 - [Mozilla CommonVoice](https://commonvoice.mozilla.org/en/datasets) - {2020, 20 hours}
-- [Facebook CoVoST](https://github.com/facebookresearch/covost) - {2019, 2 hours}
+- [Facebook CoVoST](https://github.com/facebookresearch/covost) - {2019, 2-4 hours}
 - [Spoken Tutorial](https://spoken-tutorial.org/) - TODO: Scrape from here
 
 #### Speech Translation
 
 - [Prabhupadavani](https://github.com/frozentoad9/CMST) - {2022, [Paper](https://arxiv.org/pdf/2201.11391.pdf)}
+- [CVSS - CommonVoice-based S2S](https://github.com/google-research-datasets/cvss) - {2022, ~3 hours}
 
 #### Text-to-Speech (TTS)
 
