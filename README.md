@@ -243,6 +243,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 #### Audio
 
+- [Abuse Detection In Multilingual Audio](https://github.com/ShareChatAI/Adima) - {2022, [Paper](https://arxiv.org/pdf/2202.07991.pdf)}
 - [A classification dataset for Tamil music](http://dorienherremans.com/sgmusic) - {2020, [Paper](https://arxiv.org/abs/2009.04459)}
 
 ### Named Entity Recognition
