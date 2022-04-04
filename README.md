@@ -284,7 +284,8 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 #### Scene-Text Detection / Recognition
 
-- [SynthText](https://github.com/IngleJaya95/SynthTextHindi) - {2019, [Dataset](https://drive.google.com/drive/folders/1fx1D1EW_6_j9tzzXSajM8iQygeMLLMcU)}
+- [SynthText](https://ocr.ai4bharat.org/#/previous_works) - {2019}
+- [IIIT-H OCR benchmark and synthetic data](https://arxiv.org/abs/2201.03180) - {2021, Available on request}
 
 #### Document OCR
 
