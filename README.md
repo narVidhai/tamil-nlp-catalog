@@ -326,6 +326,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 - [XTREME - Multi-task Benchmark for Cross-lingual Generalization](https://github.com/google-research/xtreme)
 - [XTREME-S: Evaluating Cross-lingual Speech Representations](https://huggingface.co/datasets/google/xtreme_s) - {[Paper](https://arxiv.org/pdf/2203.10752.pdf)}
 - [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/)
+- [MASSIVE - NLU Benchmark](https://github.com/alexa/massive) - Slot filling, Intent classification, Virtual assistant evaluation
 - [Vyākarana - Syntactic evaluation of language models](https://github.com/rajaswa/indic-syntax-evaluation) - {2021}
 
 ### Miscellaneous NLP Datasets
