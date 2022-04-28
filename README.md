@@ -321,6 +321,11 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 - [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora)
 - [MTurks Bilngual Dictionary](https://github.com/AI4Bharat/indicnlp_catalog/issues/21) - {2014}
 
+### Natural Language Generation
+
+- [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://github.com/thunlp/XQA) - {2019, [Paper](https://www.aclweb.org/anthology/P19-1227.pdf)}
+- [XAlign: Cross-lingual Fact-to-Text Alignment and Generation](https://github.com/tushar117/XAlign) - {2022, [Paper](https://drive.google.com/file/d/1M9FRYQ-ir9ccfsiXXi1p7EcrELEJGJ_l/preview)}
+
 ### Benchmarks
 
 - [XTREME - Multi-task Benchmark for Cross-lingual Generalization](https://github.com/google-research/xtreme)
@@ -336,7 +341,6 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
   - [AI4Bharat Cross-Lingual Sentence Retrieval](https://indicnlp.ai4bharat.org/indic-glue/)
   - [AI4Bharat Cross-lingual Semantic Textual Similarity](https://github.com/AI4Bharat/indicnlp_catalog/issues/146) - {2020}
   - [Multilingual Entity-Linking from WikiNews](http://goo.gle/mewsli-dataset) - {2020}
-  - [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://github.com/thunlp/XQA) - {2019, [Paper](https://www.aclweb.org/anthology/P19-1227.pdf)}
   - [IndicLink - Multilingual Fact Linking](https://github.com/google-research-datasets/IndicLink) - {2022}
   
 - **Dialogue**
