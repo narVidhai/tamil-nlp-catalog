@@ -53,6 +53,7 @@ Note:
   - [Part-Of-Speech (POS) Tagging](#part-of-speech-pos-tagging)
   - [Sentiment and Abuse Analysis](#sentiment-and-abuse-analysis)
   - [Lexical Resources](#lexical-resources)
+  - [Natural Language Generation](#natural-language-generation)
   - [Benchmarks](#benchmarks)
   - [Miscellaneous NLP Datasets](#miscellaneous-nlp-datasets)
 - [**Other Important Resources**](#other-important-resources)
