@@ -326,6 +326,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 - [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://github.com/thunlp/XQA) - {2019, [Paper](https://www.aclweb.org/anthology/P19-1227.pdf)}
 - [XAlign: Cross-lingual Fact-to-Text Alignment and Generation](https://github.com/tushar117/XAlign) - {2022, [Paper](https://drive.google.com/file/d/1M9FRYQ-ir9ccfsiXXi1p7EcrELEJGJ_l/preview)}
+- [XL-Sum: Abstractive Summarization](https://github.com/csebuetnlp/xl-sum)
 
 ### Benchmarks
 
