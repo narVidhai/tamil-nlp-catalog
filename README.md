@@ -308,6 +308,7 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 - [Tamil 1k Tweets For Binary Sentiment Analysis](https://kracekumar.com/post/tamil_1k_tweets_binary_sentiment/)
 - [Hope Speech Dataset, 2020](https://github.com/bharathichezhiyan/HopeEDI) ([Competition](https://competitions.codalab.org/competitions/27653))
 - [IIIT-D Abusive Comment Identification, 2021](https://www.kaggle.com/c/iiitd-abuse-detection-challenge/data)
+- [Multilingual Abusive Comment Detection - ShareChatAI](https://github.com/ShareChatAI/MACD) - 30k samples
 - DravidianLangTech 2022
   - [Toxic Span Identification](https://competitions.codalab.org/competitions/36395)
   - [Multimodal Sentiment Analysis](https://competitions.codalab.org/competitions/36406)
