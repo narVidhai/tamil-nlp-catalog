@@ -339,9 +339,9 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 
 ### LLM
 
-## LLaMA
+#### LLaMA
 
-- [Attiri: Dataset and an instruction-following large language model for Tamil based on LLaMa and Stanford Alpaca(https://github.com/adithyab94/Attiri/blob/main/README.md)- Two datasets of 52K and 500k prompt and responses. 
+- [Attiri: Dataset and an instruction-following large language model for Tamil based on LLaMa and Stanford Alpaca](https://github.com/adithyab94/Attiri/)- Two datasets of 52K and 500k prompt and responses. 
 
 ### Miscellaneous NLP Datasets
 
