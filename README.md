@@ -337,6 +337,12 @@ Note: You can also use the [MTData library](https://pypi.org/project/mtdata/) to
 - [MASSIVE - NLU Benchmark](https://github.com/alexa/massive) - Slot filling, Intent classification, Virtual assistant evaluation
 - [Vyākarana - Syntactic evaluation of language models](https://github.com/rajaswa/indic-syntax-evaluation) - {2021}
 
+### LLM
+
+#### LLaMA
+
+- [Attiri: Dataset and an instruction-following large language model for Tamil based on LLaMa and Stanford Alpaca](https://github.com/adithyab94/Attiri/)- Two datasets of 52K and 500k prompt and responses. 
+
 ### Miscellaneous NLP Datasets
 
 - **Natural Language Inference**
